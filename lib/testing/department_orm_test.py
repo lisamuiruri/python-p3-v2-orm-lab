@@ -1,4 +1,4 @@
-from __init__ import CONN, CURSOR
+from lib import CONN, CURSOR            
 from department import Department
 import pytest
 
